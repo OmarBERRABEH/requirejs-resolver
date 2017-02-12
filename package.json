@@ -1,0 +1,12 @@
+{
+  "name": "requirejs-resolver",
+  "version": "0.0.1",
+  "description": "A requirejs plugin to resolve a dynamic url",
+  "main": "requirejs.resolver.js",
+  "repository": {
+    "url": "https://github.com/OmarBERRABEH/requirejs-resolver.git",
+    "type": "git"
+  },
+  "author": "omar BERRABEH <oberrabeh@sqli.com>",
+  "license": "MIT"
+}
